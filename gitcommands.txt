@@ -17,3 +17,4 @@ git cherry-pick
 git amend
 git stash
 git pop
+git clone
