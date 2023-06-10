@@ -1,2 +1,10 @@
-git is VCS it is used for storing code/data etc..`:wq!
-
+git is VCS it is used for storing code/data etc..
+welcome to devops
+git status
+git add .
+git commit -m
+git commit --amend -m
+git log
+git log --oneline
+git push
+git pull
