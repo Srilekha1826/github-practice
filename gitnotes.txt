@@ -1,0 +1,2 @@
+git is VCS it is used for storing code/data etc..`:wq!
+
