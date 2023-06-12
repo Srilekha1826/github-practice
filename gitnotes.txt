@@ -8,3 +8,4 @@ git log
 git log --oneline
 git push
 git pull
+git diff
